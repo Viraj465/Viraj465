@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Sawant</h1>
-<h3 align="center">AI Innovator | Full-Stack Developer | Final-Year IT Student | Researcher & Patent Holder</h3>
+<h3 align="center">AI Innovator | Full-Stack Developer | Researcher & Patent Holder</h3>
 
 <p align="center">
   <a href="mailto:sawantviraj465@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
